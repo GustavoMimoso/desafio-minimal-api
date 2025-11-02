@@ -24,3 +24,4 @@ public class AdministradorTest
         Assert.AreEqual("Adm", adm.Perfil);
     }
 }
+//finalizado
